@@ -1,0 +1,147 @@
+Install  python ... 
+install python ok!  
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numpy==1.16.3 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 1)) (1.16.3)
+Requirement already satisfied: opencv-python==4.1.0.25 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 2)) (4.1.0.25)
+Requirement already satisfied: pocketsphinx==0.1.15 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 3)) (0.1.15)
+Requirement already satisfied: PyAudio==0.2.11 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 4)) (0.2.11)
+Requirement already satisfied: SpeechRecognition==3.8.1 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 5)) (3.8.1)
+zh-CN\language-model.lm.bin
+zh-CN\pronounciation-dictionary.dict
+zh-CN\README
+zh-CN\v13.lm
+zh-CN\acoustic-model\feat.params
+zh-CN\acoustic-model\feature_transform
+zh-CN\acoustic-model\mdef
+zh-CN\acoustic-model\means
+zh-CN\acoustic-model\mixture_weights
+zh-CN\acoustic-model\noisedict
+zh-CN\acoustic-model\transition_matrices
+zh-CN\acoustic-model\variances
+复制了 12 个文件
+Install  python ... 
+install python ok!  
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numpy==1.16.3 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 1)) (1.16.3)
+Requirement already satisfied: opencv-python==4.1.0.25 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 2)) (4.1.0.25)
+Requirement already satisfied: pocketsphinx==0.1.15 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 3)) (0.1.15)
+Requirement already satisfied: PyAudio==0.2.11 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 4)) (0.2.11)
+Requirement already satisfied: SpeechRecognition==3.8.1 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 5)) (3.8.1)
+zh-CN\language-model.lm.bin
+zh-CN\pronounciation-dictionary.dict
+zh-CN\README
+zh-CN\v13.lm
+zh-CN\acoustic-model\feat.params
+zh-CN\acoustic-model\feature_transform
+zh-CN\acoustic-model\mdef
+zh-CN\acoustic-model\means
+zh-CN\acoustic-model\mixture_weights
+zh-CN\acoustic-model\noisedict
+zh-CN\acoustic-model\transition_matrices
+zh-CN\acoustic-model\variances
+复制了 12 个文件
+Install  python ... 
+install python ok!  
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numpy==1.16.3 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 1)) (1.16.3)
+Requirement already satisfied: opencv-python==4.1.0.25 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 2)) (4.1.0.25)
+Requirement already satisfied: pocketsphinx==0.1.15 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 3)) (0.1.15)
+Requirement already satisfied: PyAudio==0.2.11 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 4)) (0.2.11)
+Requirement already satisfied: SpeechRecognition==3.8.1 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 5)) (3.8.1)
+zh-CN\language-model.lm.bin
+zh-CN\pronounciation-dictionary.dict
+zh-CN\README
+zh-CN\v13.lm
+zh-CN\acoustic-model\feat.params
+zh-CN\acoustic-model\feature_transform
+zh-CN\acoustic-model\mdef
+zh-CN\acoustic-model\means
+zh-CN\acoustic-model\mixture_weights
+zh-CN\acoustic-model\noisedict
+zh-CN\acoustic-model\transition_matrices
+zh-CN\acoustic-model\variances
+复制了 12 个文件
+Install  python ... 
+install python ok!  
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numpy==1.16.3 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 1)) (1.16.3)
+Requirement already satisfied: opencv-python==4.1.0.25 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 2)) (4.1.0.25)
+Requirement already satisfied: pocketsphinx==0.1.15 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 3)) (0.1.15)
+Requirement already satisfied: PyAudio==0.2.11 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 4)) (0.2.11)
+Requirement already satisfied: SpeechRecognition==3.8.1 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 5)) (3.8.1)
+zh-CN\language-model.lm.bin
+zh-CN\pronounciation-dictionary.dict
+zh-CN\README
+zh-CN\v13.lm
+zh-CN\acoustic-model\feat.params
+zh-CN\acoustic-model\feature_transform
+zh-CN\acoustic-model\mdef
+zh-CN\acoustic-model\means
+zh-CN\acoustic-model\mixture_weights
+zh-CN\acoustic-model\noisedict
+zh-CN\acoustic-model\transition_matrices
+zh-CN\acoustic-model\variances
+复制了 12 个文件
+Install  python ... 
+install python ok!  
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numpy==1.16.3 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 1)) (1.16.3)
+Requirement already satisfied: opencv-python==4.1.0.25 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 2)) (4.1.0.25)
+Requirement already satisfied: pocketsphinx==0.1.15 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 3)) (0.1.15)
+Requirement already satisfied: PyAudio==0.2.11 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 4)) (0.2.11)
+Requirement already satisfied: SpeechRecognition==3.8.1 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 5)) (3.8.1)
+zh-CN\language-model.lm.bin
+zh-CN\pronounciation-dictionary.dict
+zh-CN\README
+zh-CN\v13.lm
+zh-CN\acoustic-model\feat.params
+zh-CN\acoustic-model\feature_transform
+zh-CN\acoustic-model\mdef
+zh-CN\acoustic-model\means
+zh-CN\acoustic-model\mixture_weights
+zh-CN\acoustic-model\noisedict
+zh-CN\acoustic-model\transition_matrices
+zh-CN\acoustic-model\variances
+复制了 12 个文件
+Install  python ... 
+install python ok!  
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numpy==1.16.3 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 1)) (1.16.3)
+Requirement already satisfied: opencv-python==4.1.0.25 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 2)) (4.1.0.25)
+Requirement already satisfied: pocketsphinx==0.1.15 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 3)) (0.1.15)
+Requirement already satisfied: PyAudio==0.2.11 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 4)) (0.2.11)
+Requirement already satisfied: SpeechRecognition==3.8.1 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 5)) (3.8.1)
+zh-CN\language-model.lm.bin
+zh-CN\pronounciation-dictionary.dict
+zh-CN\README
+zh-CN\v13.lm
+zh-CN\acoustic-model\feat.params
+zh-CN\acoustic-model\feature_transform
+zh-CN\acoustic-model\mdef
+zh-CN\acoustic-model\means
+zh-CN\acoustic-model\mixture_weights
+zh-CN\acoustic-model\noisedict
+zh-CN\acoustic-model\transition_matrices
+zh-CN\acoustic-model\variances
+复制了 12 个文件
+^CInstall  python ... 
+install python ok!  
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numpy==1.16.3 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 1)) (1.16.3)
+Requirement already satisfied: opencv-python==4.1.0.25 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 2)) (4.1.0.25)
+Requirement already satisfied: pocketsphinx==0.1.15 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 3)) (0.1.15)
+Requirement already satisfied: PyAudio==0.2.11 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 4)) (0.2.11)
+Requirement already satisfied: SpeechRecognition==3.8.1 in c:\users\administrator\appdata\local\programs\python\python36\lib\site-packages (from -r requirements.txt (line 5)) (3.8.1)
+zh-CN\language-model.lm.bin
+zh-CN\pronounciation-dictionary.dict
+zh-CN\README
+zh-CN\v13.lm
+zh-CN\acoustic-model\feat.params
+zh-CN\acoustic-model\feature_transform
+zh-CN\acoustic-model\mdef
+zh-CN\acoustic-model\means
+zh-CN\acoustic-model\mixture_weights
+zh-CN\acoustic-model\noisedict
+zh-CN\acoustic-model\transition_matrices
+zh-CN\acoustic-model\variances
+复制了 12 个文件
